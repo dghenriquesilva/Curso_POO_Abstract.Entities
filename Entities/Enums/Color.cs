@@ -8,5 +8,8 @@ namespace Curso_POO_Abstract.Entities.Enums
 {
     public enum Color: int
     {
+        black = 0,
+        blue= 1,
+        red =2
     }
 }
